@@ -1,3 +1,5 @@
-![](README images/procedure.gif)
-![](README images/demonstration1.gif)
-![](README images/demonstration2.gif)
+![](README/procedure.gif)
+
+![](README/demonstration1.gif)
+
+![](README/demonstration2.gif)
